@@ -1,0 +1,8 @@
+Place the reference images of registered users in this folder before running the project.
+
+Example:
+- img1.jpeg
+- img2.jpeg
+- img3.jpeg
+
+The images should contain clear frontal faces for accurate recognition.
