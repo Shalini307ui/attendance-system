@@ -1,5 +1,3 @@
-# Smart Attendance Management System Using Face Recognition
-
 ##  Project Overview
 
 The Smart Attendance Management System Using Face Recognition is a Python-based application that automates the attendance process using facial recognition technology.
