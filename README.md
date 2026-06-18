@@ -237,12 +237,12 @@ GitHub: https://github.com/Shalini307ui
 
 ---
 
-## 📄 License
+## License
 
 This project is intended for educational and learning purposes.
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project useful, please give it a Star ⭐ on GitHub.
